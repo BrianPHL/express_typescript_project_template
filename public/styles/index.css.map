@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\..\\src\\styles\\base\\_reset.scss","index.css"],"names":[],"mappings":"AAAA;EAEI,sBAAA;EACA,UAAA;EACA,SAAA;ACAJ","file":"index.css","sourcesContent":["* {\r\n\r\n    box-sizing: border-box;\r\n    padding: 0;\r\n    margin: 0;\r\n\r\n}","* {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}"]}
